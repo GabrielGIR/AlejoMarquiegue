@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto centra verticalmente la imagen */
+    margin: 0;
+}
+
+img {
+    max-width: 50%;
+    height: 100%; /* Asegura que la imagen mantenga su proporción */
+}
