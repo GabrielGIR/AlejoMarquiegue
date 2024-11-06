@@ -302,7 +302,7 @@ section {
     border-top: 1px solid#0d0f11;
     text-align: left; 
     padding: 20px;
-    background-color: #fff;
+    background-color: #f4f4f4;
     font-family: "Poppins", serif;
     font-weight: 500;
     font-style: normal;
@@ -318,7 +318,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f0f0f0;
+    background: #f4f4f4;
     padding: 20px;
 }
 
@@ -361,7 +361,7 @@ section {
         align-items: center;
         justify-content: space-between;
         margin-bottom: 50px;
-        background-color: #fff;
+        background-color: #f4f4f4;
         padding: 20px;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     }
@@ -462,7 +462,7 @@ section {
 
 footer {
     width: 100%;
-    background: #0a141d;
+    background: #003366;
 }
 
 .footer-1{
